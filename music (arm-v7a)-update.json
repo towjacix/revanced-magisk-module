@@ -1,6 +1,6 @@
 {
-  "version": "v8.10.52 (patches 5.47.0)",
-  "versionCode": 22,
-  "zipUrl": "https://github.com/towjacix/revanced-magisk-module/releases/download/22/music-revanced-magisk-v8.10.52-arm-v7a.zip",
+  "version": "v8.10.52 (patches 5.48.0)",
+  "versionCode": 23,
+  "zipUrl": "https://github.com/towjacix/revanced-magisk-module/releases/download/23/music-revanced-magisk-v8.10.52-arm-v7a.zip",
   "changelog": "https://raw.githubusercontent.com/towjacix/revanced-magisk-module/update/build.md"
 }
